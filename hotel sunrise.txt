@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<form action="/action_page.php">
+    <label for="uname">user's name:</label><br>
+    <input type="text" id="uname" name="uname"><br>
+    <label for="tnumber">Telephone number:</label><br>
+    <input type="number" id="tnumber" name="tnumber"><br><br>
+    <label for="eaddress">Email address:</label><br>
+    <input type="text" id="eaddress" name="eaddress"><br><br>
+    <input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>
